@@ -10,6 +10,12 @@ function getCharacters() {
     },
     {
       name: 'Samus'
+    }, 
+    {
+      name: 'Kirby'
+    }, 
+    {
+      name: 'Pikachu'
     }
   ]
 }
